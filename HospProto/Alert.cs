@@ -9,7 +9,9 @@ namespace HospProto
     {
         private String m_mess;
         public String message { get { return m_mess; } }
-
+        /// <summary>
+        /// Enum
+        /// </summary>
         public enum LEVEL
         {
             INFORMATION,
