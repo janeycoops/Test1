@@ -9,6 +9,7 @@ using System.Windows.Forms;
 
 namespace HospProto
 {
+//comment
     public interface BedUnitAlarmHook
     {
         void setUIAlarm();
